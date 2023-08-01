@@ -1,1 +1,3 @@
+https://lahorefortmuseum.netlify.app/
+
 This is a website with multiple pages made with HTML, CSS and JavaScript. The main purpose of this website to promote tourism in the famous fort of Lahore known as Lahore fort. There is a museum present inside Lahore Fort which contains heritage from Sikh, Mughal and British empire. Now, this museum was not very popular. This website presents all interesting things present inside the museum, which in turn, will help attract various tourists. Three main galleries are present inside this museum. Their details alongwith their content is present inside it. All images have been uploaded using html, css and js.
